@@ -1,0 +1,1 @@
+*proj.txt*                                        `A Project Manager for Neovim`
